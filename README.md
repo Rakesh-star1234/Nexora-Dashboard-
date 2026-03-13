@@ -38,4 +38,4 @@ style.css – Styling
 script.js – Logic
 
 ## Author
-Rakesh
+Rakesh Kumar
